@@ -2,4 +2,4 @@
 Better list productivity commands into As400 IBM Series
 
 
-* STRPDM: Direct accsess to library (My Library)
+* **STRPDM**: Direct accsess to library (My Library)
